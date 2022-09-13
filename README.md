@@ -4,6 +4,9 @@
 ✨ 제 꿈은 소금과 빛처럼 꼭 필요한 서비스를 만드는 게 목표랍니다.  
 
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **yunjigo92/yunjigo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
