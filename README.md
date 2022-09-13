@@ -4,7 +4,7 @@
 ✨ 제 꿈은 소금과 빛처럼 꼭 필요한 서비스를 만드는 게 목표랍니다.  
 
 
-### Blog posts
+### Recently posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
