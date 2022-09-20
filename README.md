@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
-- [로또 번호 추출기](https://5eog.github.io/lotto/)
+- [로또 번호 추출기](/lotto/)
 - [[해결완료]ubuntu version upgrade 22.04 zsh오류 _arguments:325: command not found: comparguments](https://goyunji.tistory.com/152)
 - [ubuntu apt update 오류 EXPKEYSIG C99B11DEB97541F0 Nate Smith &lt;vilmibm@github.com&gt;](https://goyunji.tistory.com/151)
 - [[Java8to16] 메서드 참조 Method Reference](https://goyunji.tistory.com/150)
