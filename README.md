@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [[해결완료]docker: Error response from daemon: cgroups: cgroup mountpoint does not exist: unknown.](https://goyunji.tistory.com/153)
 - [로또 번호 추출기](https://yunjizzz.github.io/lotto/)
 - [[해결완료]ubuntu version upgrade 22.04 zsh오류 _arguments:325: command not found: comparguments](https://goyunji.tistory.com/152)
 - [ubuntu apt update 오류 EXPKEYSIG C99B11DEB97541F0 Nate Smith &lt;vilmibm@github.com&gt;](https://goyunji.tistory.com/151)
 - [[Java8to16] 메서드 참조 Method Reference](https://goyunji.tistory.com/150)
-- [[Nest.js] 프로바이더&lpar;Provider&rpar;란? 등록 및 사용 방법](https://goyunji.tistory.com/149)
 <!-- BLOG-POST-LIST:END -->
