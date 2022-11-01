@@ -71,5 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [리눅스 Ubuntu 22.04 카카오톡 설치 &lpar;다른 버전도 동일&rpar;](https://goyunji.tistory.com/154)
+- [[해결완료]docker: Error response from daemon: cgroups: cgroup mountpoint does not exist: unknown.](https://goyunji.tistory.com/153)
 - [로또 추천 번호 뽑기](https://yunjizzz.github.io/lotto/)
+- [[해결완료]ubuntu version upgrade 22.04 zsh오류 _arguments:325: command not found: comparguments](https://goyunji.tistory.com/152)
+- [ubuntu apt update 오류 EXPKEYSIG C99B11DEB97541F0 Nate Smith &lt;vilmibm@github.com&gt;](https://goyunji.tistory.com/151)
 <!-- BLOG-POST-LIST:END -->
