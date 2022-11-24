@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [Spring Security란? Security Filter 종류 간단히 알아보자](https://goyunji.tistory.com/157)
 - [[책속명언] 생각하라 그리고 부자가 되어라](https://goyunji.tistory.com/155)
 - [리눅스 Ubuntu 22.04 카카오톡 설치 &lpar;다른 버전도 동일&rpar;](https://goyunji.tistory.com/154)
 - [[해결완료]docker: Error response from daemon: cgroups: cgroup mountpoint does not exist: unknown.](https://goyunji.tistory.com/153)
 - [로또 추천 번호 뽑기](https://yunjizzz.github.io/lotto/)
-- [[해결완료]ubuntu version upgrade 22.04 zsh오류 _arguments:325: command not found: comparguments](https://goyunji.tistory.com/152)
 <!-- BLOG-POST-LIST:END -->
