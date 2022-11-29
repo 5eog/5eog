@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [Mac, Linux에서 Node.js version 변경 방법 n](https://goyunji.tistory.com/161)
 - [오류해결 zsh: command not found: nvm](https://goyunji.tistory.com/160)
 - [git계정 여러개 폴더별로 사용하기&lpar;github, gitlab etc&rpar;](https://goyunji.tistory.com/159)
 - [Spring Security란? Security Filter 종류 간단히 알아보자](https://goyunji.tistory.com/157)
 - [[책속명언] 생각하라 그리고 부자가 되어라](https://goyunji.tistory.com/155)
-- [리눅스 Ubuntu 22.04 카카오톡 설치 &lpar;다른 버전도 동일&rpar;](https://goyunji.tistory.com/154)
 <!-- BLOG-POST-LIST:END -->
