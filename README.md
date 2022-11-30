@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [국내외 IT 기술 블로그 모음집&lpar;ver2023&rpar;](https://yunjizzz.github.io/dev-site/)
 - [Mac, Linux에서 Node.js version 변경 방법 n](https://goyunji.tistory.com/161)
 - [오류해결 zsh: command not found: nvm](https://goyunji.tistory.com/160)
 - [git계정 여러개 폴더별로 사용하기&lpar;github, gitlab etc&rpar;](https://goyunji.tistory.com/159)
 - [Spring Security란? Security Filter 종류 간단히 알아보자](https://goyunji.tistory.com/157)
-- [[책속명언] 생각하라 그리고 부자가 되어라](https://goyunji.tistory.com/155)
 <!-- BLOG-POST-LIST:END -->
