@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [JSON VIEWER](https://yunjizzz.github.io/json-viewer/)
 - [국내외 IT 기술 블로그 모음집&lpar;ver2023&rpar;](https://yunjizzz.github.io/dev-site/)
 - [Mac, Linux에서 Node.js version 변경 방법 n](https://goyunji.tistory.com/161)
 - [오류해결 zsh: command not found: nvm](https://goyunji.tistory.com/160)
 - [git계정 여러개 폴더별로 사용하기&lpar;github, gitlab etc&rpar;](https://goyunji.tistory.com/159)
-- [[책속명언] 멘탈을 바꿔야 인생이 바뀐다.](https://goyunji.tistory.com/158)
 <!-- BLOG-POST-LIST:END -->
