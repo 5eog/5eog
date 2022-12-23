@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
-- [[Typescript 2주완성] 3일차 type, function, readonly, tuple, any](https://goyunji.tistory.com/166)
+- [[Typescript 2주완성] 3일차 type, tuple, any, unknown ,never](https://goyunji.tistory.com/166)
 - [[Typescript 2주완성] 2일차 타입스크립트 개념 &amp; 변수 선언](https://goyunji.tistory.com/165)
 - [[Typescript 2주완성] 1일차 타입스크립트 사용이유 &amp; 개발환경 준비](https://goyunji.tistory.com/164)
 - [[책속명언] 게으른 완벽주의자를 위한 심리학](https://goyunji.tistory.com/162)
