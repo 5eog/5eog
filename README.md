@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [[Mac] react native app 개발환경 세팅 및 실행&lpar;android&rpar;](https://goyunji.tistory.com/173)
 - [Mac Java 설치 및 버전 여러개 관리 deprecated adoptopenjdk](https://goyunji.tistory.com/172)
 - [React 프로젝트 생성하기&lpar;with Typescript&rpar;](https://goyunji.tistory.com/171)
 - [[Typescript]  타입스크립트 문법 추상클래스&lpar;abstract&rpar; &amp; interface &amp; type 차이](https://goyunji.tistory.com/170)
 - [[Typescript]  타입스크립트 문법 클래스, 추상클래스, 접근제어자, map](https://goyunji.tistory.com/169)
-- [[Typescript]  타입스크립트 문법 call signatures, overloading, generic](https://goyunji.tistory.com/168)
 <!-- BLOG-POST-LIST:END -->
