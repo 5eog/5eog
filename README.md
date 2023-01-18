@@ -1,3 +1,4 @@
+<br/>
 <p>
 👋 안녕하세요!! <br>
 🌱 아직도 열심히 배우는 중인 벌써 n년차 개발자입니다.  <br>
@@ -5,6 +6,8 @@
 ✨ 제 꿈은 소금과 빛처럼 꼭 필요한 서비스를 만드는 게 목표랍니다.  <br>
 </p>
 
+<br/>
+  
 
 <!--
 **yunjigo92/yunjigo92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,8 +45,8 @@ Here are some ideas to get you started:
 <br>
 </p>
 
-<h3 align="center">Frameworks</h3>
-<p align="center">
+<h3>Frameworks</h3>
+<p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
