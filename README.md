@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <p>
  <a href="https://goyunji.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ <a href="https://goyunji.tistory.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Jekyll_Blog-CC0000?style=flat-square&logo=Jekyll&logoColor=white"/></a>
 </p>
 
 
