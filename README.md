@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [[Docker] Mysql localhost 접근 안되는 현상 해결하기](https://goyunji.tistory.com/180)
 - [[SpringBoot] Query DSL설정 오류 해결&lpar;java: java.lang.NoClassDefFoundError: javax/persistence/Entity&rpar;](https://goyunji.tistory.com/176)
 - [[Linux/Mac] .gitignore 생성하기  gitignore.io CLI 이용](https://goyunji.tistory.com/175)
 - [[Mac] 능률 상승하는 IntelliJ 단축키&lpar;다중커서 편집, PDF자료포함&rpar;](https://goyunji.tistory.com/174)
 - [[Mac] react native app 개발환경 세팅 및 실행&lpar;android&rpar;](https://goyunji.tistory.com/173)
-- [Mac Java 설치 및 버전 여러개 관리 deprecated adoptopenjdk](https://goyunji.tistory.com/172)
 <!-- BLOG-POST-LIST:END -->
