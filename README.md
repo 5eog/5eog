@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [Node.js vs Java 무엇을 선택할까?](https://goyunji.tistory.com/184)
 - [개발자 맞나요?](https://goyunji.tistory.com/182)
 - [[DB] 데이터 복제&lpar;replication&rpar;와 파티셔닝&lpar;partitioning&rpar;](https://goyunji.tistory.com/181)
 - [[SpringBoot] Query DSL설정 오류 해결&lpar;java: java.lang.NoClassDefFoundError: javax/persistence/Entity&rpar;](https://goyunji.tistory.com/176)
 - [[Linux/Mac] .gitignore 생성하기  gitignore.io CLI 이용](https://goyunji.tistory.com/175)
-- [[Mac] 능률 상승하는 IntelliJ 단축키&lpar;다중커서 편집, PDF자료포함&rpar;](https://goyunji.tistory.com/174)
 <!-- BLOG-POST-LIST:END -->
