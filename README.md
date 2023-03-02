@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs Java 무엇을 선택할까?](https://goyunji.tistory.com/184)
+- [Typescript&lpar;Node.js&rpar; vs Java&lpar;Spring&rpar; 무엇을 선택할까?](https://goyunji.tistory.com/184)
 - [멀티쓰레드 프로그램이 뭘까? with 자바 동기화&lpar;monitor&rpar;](https://goyunji.tistory.com/183)
 - [개발자 맞나요?](https://goyunji.tistory.com/182)
 - [[DB] 데이터 복제&lpar;replication&rpar;와 파티셔닝&lpar;partitioning&rpar;](https://goyunji.tistory.com/181)
