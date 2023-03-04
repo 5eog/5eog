@@ -74,9 +74,9 @@ Here are some ideas to get you started:
 
 ### Recently posts
 <!-- BLOG-POST-LIST:START -->
+- [6년간의 개발자 생활을 돌아보며 - 1](https://goyunji.tistory.com/185)
 - [멀티쓰레드 프로그램이 뭘까? with 자바 동기화&lpar;monitor&rpar;](https://goyunji.tistory.com/183)
 - [개발자 맞나요?](https://goyunji.tistory.com/182)
 - [[DB] 데이터 복제&lpar;replication&rpar;와 파티셔닝&lpar;partitioning&rpar;](https://goyunji.tistory.com/181)
 - [[SpringBoot] Query DSL설정 오류 해결&lpar;java: java.lang.NoClassDefFoundError: javax/persistence/Entity&rpar;](https://goyunji.tistory.com/176)
-- [[Linux/Mac] .gitignore 생성하기  gitignore.io CLI 이용](https://goyunji.tistory.com/175)
 <!-- BLOG-POST-LIST:END -->
