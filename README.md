@@ -76,7 +76,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 - [국내외 IT 기술 블로그 모음집&lpar;ver2024&rpar;](https://yunbok.com/dev-site/)
 - [JSON Viewer&lpar;minify, pretty, download&rpar;](https://yunbok.com/json-viewer-pretty-minify/)
-- [백엔드개발자 컨퍼런스 2023 스프링캠프](https://goyunji.tistory.com/186)
-- [6년간의 개발자 생활을 돌아보며 - 회고 1탄](https://goyunji.tistory.com/185)
-- [멀티쓰레드 프로그램이 뭘까? with 자바 동기화&lpar;monitor&rpar;](https://goyunji.tistory.com/183)
+- [로또 예상 번호 생성기](https://yunbok.com/lotto/)
 <!-- BLOG-POST-LIST:END -->
